@@ -1,0 +1,4 @@
+#Thu Jan 10 09:44:51 IST 2019
+base.0=/Users/developer/Documents/appasaheb4/project/task/react-native/jsontosqlite/android/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
